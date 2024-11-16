@@ -1,5 +1,14 @@
 # @graphql-eslint/eslint-plugin
 
+## 4.0.0-alpha.8
+
+### Minor Changes
+
+- [#2293](https://github.com/dimaMachina/graphql-eslint/pull/2293)
+  [`01f7087`](https://github.com/dimaMachina/graphql-eslint/commit/01f70879e5befc92acd9afffe7d2a56ee447f316)
+  Thanks [@yoavsion](https://github.com/yoavsion)! - Support the fragment spread group when defining
+  alphabetize rule's groups with new option `...`
+
 ## 4.0.0-alpha.7
 
 ### Major Changes
